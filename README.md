@@ -1,6 +1,6 @@
 # Wattpad NodeJS SDK
 
-Steamline your development of apps with Wattpad's API by using this nodejs.
+Steamline your development of apps with Wattpad's API by using this nodejs wattpad client.
 
 ## Getting Started 
 
